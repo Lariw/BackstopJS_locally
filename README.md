@@ -37,3 +37,29 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 <hr>
 
 ![image](https://user-images.githubusercontent.com/98982966/207042260-3760e9fb-3989-46ef-987d-bf6e7f1781e9.png)
+
+<hr>
+
+<p>6. Type "npm init -y" in the console </p>
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/98982966/207043819-c85646be-5f3f-4c19-9d09-d7a6e98e0049.png)
+
+<hr>
+
+<p>7. Then type npm i backstopjs</p>
+
+![image](https://user-images.githubusercontent.com/98982966/207044817-67e80578-1cf6-47bd-a1e6-7db427a65d3b.png)
+
+<p>8. The last step to install backstopJS is to initialize the backstop project, so we write another command "backstop init" in the console</p>
+
+![image](https://user-images.githubusercontent.com/98982966/207045642-8d8ced05-0fb7-43ad-875d-97cad26a15ef.png)
+
+<hr>
+
+<p>9. In our working directory there should be files: </p>
+
+![image](https://user-images.githubusercontent.com/98982966/207045927-00f46c03-da67-439b-a01b-1b39c3dc1e53.png)
+
+
