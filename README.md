@@ -120,10 +120,20 @@ let comparisonUrl = "https://www.google.com";
 
 <hr>
 
-<p>5. Edit the name of the screenshots</p>
+<p>5. Edit the name of the screenshots test</p>
+
 ![image](https://user-images.githubusercontent.com/98982966/207076459-331594c1-b0e9-400d-8d81-a3550a361c47.png)
 
 ```
 let testName = "exampleTitleFile"; 
 ```
+<hr>
+
+# First screenshots comparison
+
+<p>1. After configuring the run.js file, you need to make changes to the backstop.json file, so enter the command "node run" in the console to run the file</p>
+
+![image](https://user-images.githubusercontent.com/98982966/207078247-b9002dd7-fc7e-48f8-8cd7-9a97ccb7f28e.png)
+
+> If no error occurred, you should get message "Backstop.json edited".
 
