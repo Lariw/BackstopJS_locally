@@ -2,13 +2,13 @@
 BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 
 
-<h1>Installation</h1>
+<h1 style="text-align:center;margin:0 auto;">Installation</h1>
 
 <hr>
 
 <p>1. You must have node.js installed. To install node.js, go to https://nodejs.org/en/download/, and click download latest version</p>
 
-![image](https://user-images.githubusercontent.com/98982966/207040068-e8a932cb-edfc-4e3a-bf5d-3a8162cbb89b.png)
+![image](https://user-images.githubusercontent.com/98982966/207054626-99b4a7b5-866e-41cf-97a8-149e83591681.png)
 
 <hr>
 
@@ -16,7 +16,7 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/98982966/207042801-16cb2930-bbc3-4edf-98ae-049ea9657e87.png)
+![image](https://user-images.githubusercontent.com/98982966/207055948-0350d6ca-b63c-4a22-9477-42f737b72404.png)
 
 <hr>
 
@@ -28,7 +28,7 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/98982966/207041927-29f7d593-de6f-457f-aeaa-77964e07ba28.png)
+![image](https://user-images.githubusercontent.com/98982966/207054039-baeff9e5-8b18-4029-ab66-d9aa9356e9b7.png)
 
 <hr>
 
@@ -36,7 +36,7 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/98982966/207042260-3760e9fb-3989-46ef-987d-bf6e7f1781e9.png)
+![image](https://user-images.githubusercontent.com/98982966/207055066-88261ad0-8c12-4b62-a270-bcf8b91361bf.png)
 
 <hr>
 
@@ -44,23 +44,25 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/98982966/207043819-c85646be-5f3f-4c19-9d09-d7a6e98e0049.png)
+![image](https://user-images.githubusercontent.com/98982966/207052447-54f31473-be0b-41b5-b0a5-51557f051fd9.png)
+
 
 <hr>
 
 <p>7. Then type "npm i backstopjs"</p>
 
-![image](https://user-images.githubusercontent.com/98982966/207044817-67e80578-1cf6-47bd-a1e6-7db427a65d3b.png)
+![image](https://user-images.githubusercontent.com/98982966/207052584-aa5ebcca-b715-4114-8ba9-d1287569689b.png)
+
 
 <p>8. The last step to install backstopJS is to initialize the backstop project, so we write another command "backstop init" in the console</p>
 
-![image](https://user-images.githubusercontent.com/98982966/207045642-8d8ced05-0fb7-43ad-875d-97cad26a15ef.png)
+![image](https://user-images.githubusercontent.com/98982966/207052781-55950f56-461f-415d-9dd3-356bbe1613ce.png)
 
 <hr>
 
 <p>9. In our working directory there should be files: </p>
 
-![image](https://user-images.githubusercontent.com/98982966/207045927-00f46c03-da67-439b-a01b-1b39c3dc1e53.png)
+![image](https://user-images.githubusercontent.com/98982966/207053190-4c8031c7-ef84-428c-ae93-a02f48a07e0c.png)
 
 <p>10. If your folder contains all the files, download run.js and paste it into your working directory</p>
 
