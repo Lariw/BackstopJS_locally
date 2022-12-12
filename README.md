@@ -12,7 +12,7 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <hr>
 
-<p>2. After installation, you can check if your node is properly installed by typing node -v in cmd</p>
+<p>2. After installation, you can check if your node is properly installed by typing "node -v" in cmd</p>
 
 <hr>
 
@@ -32,7 +32,7 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <hr>
 
-<p>5.Click on "Terminal" and then "New Terminal" || ctr + ~ </p>
+<p>5.Click on "Terminal" and then "New Terminal" or special keyboard shortcut ctr + ~ </p>
 
 <hr>
 
@@ -48,7 +48,7 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <hr>
 
-<p>7. Then type npm i backstopjs</p>
+<p>7. Then type "npm i backstopjs"</p>
 
 ![image](https://user-images.githubusercontent.com/98982966/207044817-67e80578-1cf6-47bd-a1e6-7db427a65d3b.png)
 
