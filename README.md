@@ -62,4 +62,6 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 ![image](https://user-images.githubusercontent.com/98982966/207045927-00f46c03-da67-439b-a01b-1b39c3dc1e53.png)
 
+<p>10. If your folder contains all the files, download run.js and paste it into your working directory</p>
+
 
