@@ -118,4 +118,12 @@ let comparisonUrl = "https://www.google.com";
 
 ![image](https://user-images.githubusercontent.com/98982966/207075473-4b9313db-d58d-4f9e-8e20-bae8eee42ce0.png)
 
+<hr>
+
+<p>5. Edit the name of the screenshots</p>
+![image](https://user-images.githubusercontent.com/98982966/207076459-331594c1-b0e9-400d-8d81-a3550a361c47.png)
+
+```
+let testName = "exampleTitleFile"; 
+```
 
