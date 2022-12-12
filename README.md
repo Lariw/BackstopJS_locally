@@ -137,3 +137,7 @@ let testName = "exampleTitleFile";
 
 > If no error occurred, you should get message "Backstop.json edited".
 
+<hr>
+
+<p>To make a reference, enter "backstop reference" in the console.</p>
+> 
