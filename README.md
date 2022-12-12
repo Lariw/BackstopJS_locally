@@ -12,4 +12,4 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 <p>2. After installation, you can check if your node is properly installed by typing node -v in cmd</p>
 
-<p>![image](https://user-images.githubusercontent.com/98982966/207040284-2a9f7337-6231-4509-bb56-51abc199358f.png)</p>
+![image](https://user-images.githubusercontent.com/98982966/207040284-2a9f7337-6231-4509-bb56-51abc199358f.png)
