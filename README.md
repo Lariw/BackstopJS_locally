@@ -107,9 +107,9 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 <p>like that:</p>
 
 ```
-let referenceUrl = "https://www.google-stg.com/";
+let referenceUrl = "https://www.google-stg.com";
 
-let comparisonUrl = "https://www.google.com/"; 
+let comparisonUrl = "https://www.google.com"; 
   
 ```
 <hr>
