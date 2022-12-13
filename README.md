@@ -139,5 +139,22 @@ let testName = "exampleTitleFile";
 
 <hr>
 
-<p>To make a reference, enter "backstop reference" in the console.</p>
-> 
+<p>2. To make a reference, enter "backstop reference" in the console.</p>
+
+![image](https://user-images.githubusercontent.com/98982966/207253352-df27aa6b-3fab-443e-90e3-abdf74e871ee.png)
+
+> <p>After making the references, you can view the screenshots in the file</p>
+
+> ![image](https://user-images.githubusercontent.com/98982966/207253825-db72a8a4-25a2-4435-ac52-dd88d0b180ee.png)
+
+<hr>
+
+<p>3. After checking the references screenshots you can run the comparison by typing "backstop test"</p>
+
+![image](https://user-images.githubusercontent.com/98982966/207254639-3dd6ab63-e32e-4440-af09-bb7c6d68d19c.png)
+
+<p>4. After the test is finished, the html report will automatically open in the browser</p>
+
+![image](https://user-images.githubusercontent.com/98982966/207254980-50b35660-65b1-4dc8-bb5d-b0536d6af64f.png)
+
+
