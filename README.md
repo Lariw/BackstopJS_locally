@@ -14,7 +14,7 @@ More information and configuration options can be found at [garris/BackstopJS](h
 2. After installation, you can check if your node is properly installed by typing "node -v" in cmd.
 
 ![image](https://user-images.githubusercontent.com/98982966/207055948-0350d6ca-b63c-4a22-9477-42f737b72404.png)
-> <p> If the version is returned, it means that the node is installed correctly.</p>
+> If the version is returned, it means that the node is installed correctly.
 
 <hr>
 
@@ -73,23 +73,23 @@ More information and configuration options can be found at [garris/BackstopJS](h
 
 ![image](https://user-images.githubusercontent.com/98982966/207070278-35adf029-ce45-43ea-89d7-b7bcb4f396df.png)
 
-> <p>1.1 To add such formatting to multiple slugs, use this option</p>
+> 1.1 To add such formatting to multiple slugs, use this option
 
 > ![image](https://user-images.githubusercontent.com/98982966/207071898-15804b1f-2702-48b9-8336-521fb2a5a77b.png)
 
 <hr>
 
-<p>2. In this variable you can remove class or id. </p>
+2. In this variable you can remove class or id.
 
 ![image](https://user-images.githubusercontent.com/98982966/207073313-47a03a26-22af-461a-9798-caaee84df29f.png)
 
 <hr>
 
-<p>3.With this, add reference url and comparison url</p>
+3.With this, add reference url and comparison url
 
 ![image](https://user-images.githubusercontent.com/98982966/207074586-82be4497-d859-40b4-8d05-144f0a74e523.png)
 
-<p>like that:</p>
+like that:
 
 
 `let referenceUrl = "https://www.google-stg.com";`
@@ -98,13 +98,13 @@ More information and configuration options can be found at [garris/BackstopJS](h
  
 <hr>
 
-<p>4. Delay -> Wait for x milliseconds between screenshots.</p>
+4. Delay -> Wait for x milliseconds between screenshots.
 
 ![image](https://user-images.githubusercontent.com/98982966/207075473-4b9313db-d58d-4f9e-8e20-bae8eee42ce0.png)
 
 <hr>
 
-<p>5. Edit the name of the screenshots test</p>
+5. Edit the name of the screenshots test
 
 ![image](https://user-images.githubusercontent.com/98982966/207076459-331594c1-b0e9-400d-8d81-a3550a361c47.png)
 
@@ -114,7 +114,7 @@ More information and configuration options can be found at [garris/BackstopJS](h
 
 # First screenshots comparison
 
-<p>1. After configuring the run.js file, you need to make changes to the backstop.json file, so enter the command "node run" in the console to run the file</p>
+1. After configuring the run.js file, you need to make changes to the backstop.json file, so enter the command "node run" in the console to run the file
 
 ![image](https://user-images.githubusercontent.com/98982966/207078247-b9002dd7-fc7e-48f8-8cd7-9a97ccb7f28e.png)
 
@@ -122,25 +122,25 @@ More information and configuration options can be found at [garris/BackstopJS](h
 
 <hr>
 
-<p>2. To make a reference, enter "backstop reference" in the console.</p>
+2. To make a reference, enter "backstop reference" in the console.
 
 ![image](https://user-images.githubusercontent.com/98982966/207253352-df27aa6b-3fab-443e-90e3-abdf74e871ee.png)
 
-> <p>After making the references, you can view the screenshots in the file</p>
+> After making the references, you can view the screenshots in the file
 
 > ![image](https://user-images.githubusercontent.com/98982966/207253825-db72a8a4-25a2-4435-ac52-dd88d0b180ee.png)
 
 <hr>
 
-<p>3. After checking the references screenshots you can run the comparison by typing "backstop test"</p>
+3. After checking the references screenshots you can run the comparison by typing "backstop test"
 
 ![image](https://user-images.githubusercontent.com/98982966/207254639-3dd6ab63-e32e-4440-af09-bb7c6d68d19c.png)
 
-<p>4. After the test is finished, the html report will automatically open in the browser</p>
+4. After the test is finished, the html report will automatically open in the browser
 
 ![image](https://user-images.githubusercontent.com/98982966/207254980-50b35660-65b1-4dc8-bb5d-b0536d6af64f.png)
 
-<p>5. You can also run the report by typing in the console backstop openReport</p>
+5. You can also run the report by typing in the console backstop openReport
 
 ![image](https://user-images.githubusercontent.com/98982966/207257089-6702ae36-48a1-4489-9216-4a1427a10194.png)
 
