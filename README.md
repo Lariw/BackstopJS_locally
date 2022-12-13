@@ -145,10 +145,10 @@ More information and configuration options can be found at [garris/BackstopJS](h
 ![image](https://user-images.githubusercontent.com/98982966/207257089-6702ae36-48a1-4489-9216-4a1427a10194.png)
 
 # The most important console commands in backstopJS
-##### `npm install bacstopjs` - backstopJS installation
+##### `npm install backstopjs` - backstopJS installation
 ##### `backstop init` - initializing the backstopJS project
 ##### `backstop reference` - creating reference screenshots
 ##### `backstop test` - creating comparison screenshots
-##### `backstop openReport` - opening the backstopjs report
-##### `backstop approve` - committing backstopjs changes
+##### `backstop openReport` - opening the backstopJS report
+##### `backstop approve` - committing backstopJS changes
 
