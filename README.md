@@ -91,12 +91,11 @@ More information and configuration options can be found at [garris/BackstopJS](h
 
 <p>like that:</p>
 
-`
-let referenceUrl = "https://www.google-stg.com";
 
-let comparisonUrl = "https://www.google.com"; 
-  
-`
+`let referenceUrl = "https://www.google-stg.com";`
+
+`let comparisonUrl = "https://www.google.com"; `
+ 
 <hr>
 
 <p>4. Delay -> Wait for x milliseconds between screenshots.</p>
@@ -109,9 +108,8 @@ let comparisonUrl = "https://www.google.com";
 
 ![image](https://user-images.githubusercontent.com/98982966/207076459-331594c1-b0e9-400d-8d81-a3550a361c47.png)
 
-```
-let testName = "exampleTitleFile"; 
-```
+`let testName = "exampleTitleFile";`
+
 <hr>
 
 # First screenshots comparison
@@ -145,3 +143,11 @@ let testName = "exampleTitleFile";
 <p>5. You can also run the report by typing in the console backstop openReport</p>
 
 ![image](https://user-images.githubusercontent.com/98982966/207257089-6702ae36-48a1-4489-9216-4a1427a10194.png)
+
+# The most important console commands in backstopJS
+
+`backstop init`
+`backstop reference`
+`backstop test`
+`backstop openReport`
+
