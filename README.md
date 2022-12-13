@@ -4,7 +4,7 @@ BackstopJS automates visual regression testing of your responsive web UI by comp
 
 ## Installation BackstopJS.
 
-<p>1. You must have node.js installed. To install node.js, go to [node.js](https://nodejs.org/en/download/) and click download latest version.</p>
+1. You must have node.js installed. To install node.js, go to [Node page](https://nodejs.org/en/download/) and click download latest version.
 
 ![image](https://user-images.githubusercontent.com/98982966/207054626-99b4a7b5-866e-41cf-97a8-149e83591681.png)
 
